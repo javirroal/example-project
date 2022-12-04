@@ -1,1 +1,1 @@
-console.log("hello world emoji");
+console.log("hello world");
